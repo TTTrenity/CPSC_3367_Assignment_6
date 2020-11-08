@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding">15dp</dimen>
+    <dimen name="iv_height">24dp</dimen>
+    <dimen name="form_iv_margin_top">10dp</dimen>
+    <dimen name="info_iv_margin_top">2dp</dimen>
+    <dimen name="iv_weight">1</dimen>
+    <dimen name="text_weight">5</dimen>
+    <dimen name="button_margin_horizontal">35dp</dimen>
+    <dimen name="button_margin_top">25dp</dimen>
+
+    <dimen name="contact_photo_size">100dp</dimen>
+    <dimen name="contact_name_size">25sp</dimen>
+    <dimen name="chip_margin_bottom">20dp</dimen>
+    <dimen name="name_margin_top">10dp</dimen>
+</resources>
